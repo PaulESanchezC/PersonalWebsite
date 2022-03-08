@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <BaseIntermediateOutputPath>C:\Users\Paulyglot\Desktop\PersonalWebsite\Repository\PersonalWebsite\obj</BaseIntermediateOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

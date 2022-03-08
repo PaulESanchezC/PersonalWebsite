@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dBIxSseOu4AAxVPhtd6dfei0u8flTKDJkRw/TK9B4IytjxIhh8FzyqfGUDUt7r+BbVDw8hQpHqFoggu2JxyMdw==",
+  "dgSpecHash": "OaREMH5BGHk20EoossZcpd+ixCm/RUIpUQCO58PFJO69hcLiTFNKdJ0BC+1GymGv7QMuO4NVTA915QioX0QKNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Paulyglot\\Desktop\\Personal-GitHub-Repository\\PaulESanchezC\\PersonalWebsite\\PersonalWebsite.csproj",
+  "projectFilePath": "C:\\Users\\Paulyglot\\Desktop\\PersonalWebsite\\Repository\\PersonalWebsite\\PersonalWebsite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paulyglot\\.nuget\\packages\\font-awesome\\4.7.0\\font-awesome.4.7.0.nupkg.sha512",
     "C:\\Users\\Paulyglot\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
